@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+    background: #252525;
+    
+}
+
+
+form{
+
+    margin-top: 100px;
+    margin-left: 400px;
+    width: 660px;
+
+}
+
+h1, b, p{
+    color: #fff;
+    text-decoration: none;
+}
+.container{
+
+    /* display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 0.5rem;
+    padding: 0 2rem; */
+
+
+}
+
+.container_signin{
+    margin-top: 100px;
+}
