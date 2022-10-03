@@ -768,6 +768,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-blue{
+  --tw-bg-opacity: 1;
+  background-color: #4285f4
+}
+
 .py-12 {
   padding-top: 3rem;
   padding-bottom: 3rem;
